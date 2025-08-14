@@ -4,10 +4,10 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 
 ---
 
-## 🏫 Información de la Facultad
+## 🏫 Información general
 **Universidad Tecnológica Nacional**  
 **Facultad Regional Córdoba**  
-**Cátedra:** Ingeniería y Calidad de Software – 4K1  
+**Cátedra:** 4K1  
 
 ---
 
