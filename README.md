@@ -31,7 +31,14 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ---
 
 ## 📂 Estructura del Repositorio
-*(Pendiente de completar)*
+
+/
+├── proyecto/
+│   ├── producto/
+│   │   ├── backend/
+│   │   ├── frontend/
+│   │   └── docs/
+└── README.md
 
 ---
 
