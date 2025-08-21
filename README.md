@@ -58,7 +58,12 @@ README.md
 ---
 
 ## 📖 Glosario
-*(Pendiente de completar)*
+- DOC: documento.
+- BE: backend.
+- FE: frontend.
+- AS: assets.
+- CL: clase.
+- BIB: bibliografia.
 
 ---
 
