@@ -44,7 +44,15 @@ README.md
 ---
 
 ## 🗂️ Listado de Ítems de Configuración
-*(Pendiente de completar)*
+| Ítem de Configuración | Nomenclatura | Ubicación | Descripción breve |
+|-----------------------|--------------|-----------|-------------------|
+| Documentos            | DOC_nombre_del_item.&lt;&lt;ext&gt;&gt; | /Productos/Docs     | Documentos generales |
+| Back End              | BE_nombre_del_item.&lt;&lt;ext&gt;&gt; | /Productos/Backend  | Documentos de backend |
+| Front End             | FE_nombre_del_item.&lt;&lt;ext&gt;&gt; | /Productos/Frontend | Documentos de frontend |
+| Assets                | AS_nombre_del_item.&lt;&lt;ext&gt;&gt; | /Productos/Assets   | Recursos visuales |
+| Clase                 | BE_CL_nombre_de_clase.&lt;&lt;ext&gt;&gt; | /Productos/Backend/Clase | Archivos de clase |
+| Bibliografía          | BIB_nombre_del_item.&lt;&lt;ext&gt;&gt; | /Productos/Docs     | Archivos de bibliografía |
+
 
 ---
 
