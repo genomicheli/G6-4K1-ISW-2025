@@ -54,4 +54,4 @@ README.md
 ---
 
 ## ✅ Criterios de Línea Base
-*(Pendiente de completar)*
+Después de la entrega de cada trabajo práctico, una vez que la versión correspondiente haya sido subida al repositorio, y, de ser necesario, corregida, la nueva línea base deberá establecerse con el acuerdo de todos los integrantes del grupo. El plazo máximo para su creación será de una semana a partir de la devolución.
