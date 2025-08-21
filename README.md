@@ -1,4 +1,4 @@
-# ¡Bienvenidos al Repositorio del grupo ...!
+# ¡Bienvenidos al Repositorio del grupo 6!
 
 Este repositorio contiene los recursos, documentación y entregables relacionados con la materia de **Ingeniería y Calidad de Software**.
 
@@ -7,7 +7,8 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ## 🏫 Información general
 **Universidad Tecnológica Nacional**  
 **Facultad Regional Córdoba**  
-**Cátedra:** 4K1  
+**Curso 4K1** 
+  
 
 ---
 
