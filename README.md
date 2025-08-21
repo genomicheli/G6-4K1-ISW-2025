@@ -32,13 +32,14 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 
 ## 📂 Estructura del Repositorio
 
-```txt
+```
 proyecto/
 producto/
 ├── backend/
 ├── frontend/
 └── docs/
 README.md
+```
 
 ---
 
