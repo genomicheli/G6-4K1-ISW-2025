@@ -37,7 +37,8 @@ proyecto/
 producto/
 ├── backend/
 ├── frontend/
-└── docs/
+├── docs/
+└── assets/
 README.md
 ```
 
