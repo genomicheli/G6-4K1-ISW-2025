@@ -82,4 +82,4 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ---
 
 ## ✅ Criterios de Línea Base
-Después de la entrega de cada trabajo práctico, una vez que la versión correspondiente haya sido subida al repositorio, y, de ser necesario, corregida, la nueva línea base deberá establecerse con el acuerdo de todos los integrantes del grupo. El plazo máximo para su creación será de una semana a partir de la devolución.
+Después de cada entrega y corrección del trabajo práctico, con el aval del grupo, se definirá una versión estable en el repositorio. Esa versión va a ser la nueva línea base y tendrá qué establecerse dentro de la semana siguiente a la devolución.
