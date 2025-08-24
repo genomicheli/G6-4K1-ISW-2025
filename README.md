@@ -82,4 +82,4 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ---
 
 ## ✅ Criterios de Línea Base
-Después de cada entrega y corrección del trabajo práctico, con el aval del grupo, se definirá una versión estable en el repositorio. Esa versión va a ser la nueva línea base y tendrá qué establecerse dentro de la semana siguiente a la devolución.
+Después de cada entrega y corrección de un trabajo práctico evaluable, con el aval del grupo, se definirá una versión estable en el repositorio. Esa versión va a ser la nueva línea base y tendrá qué establecerse dentro de la semana siguiente a la devolución.
