@@ -58,8 +58,8 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 | Back End                          | BE_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/backend   | Artefactos de Backend |
 | Front End                         | FE_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/frontend  | Artefactos de Frontend |
 | Assets                            | AS_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/assets    | Recursos visuales |
-| Clase                             | BE_CL_nombre_de_clase.&lt;&lt;ext&gt;&gt; | /Clases                       | Clases grabadas de la materia |
-| Casos de Prueba                   | BIB_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /TPs/tp_programable/tests     | Casos de prueba relacionados al TP programable |
+| Clase                             | CL_nombre_de_clase.&lt;&lt;ext&gt;&gt;    | /Clases                       | Clases grabadas de la materia |
+| Casos de Prueba                   | TC_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/tests     | Casos de prueba relacionados al TP programable |
 | Trabajos Prácticos                | TP_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs                          | Documentos relacionados a trabajos prácticos |
 | Templates                         | TEM_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Templates                    | Plantillas varias relacionadas a la materia |
 | Casos Practicos                   | CPR_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Casos_Practicos              | Casos practicos para practicar para los parciales |
