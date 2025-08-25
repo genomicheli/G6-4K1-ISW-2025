@@ -63,6 +63,7 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 | Trabajos Prácticos                | TP_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs                          | Documentos relacionados a trabajos prácticos |
 | Templates                         | TEM_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Templates                    | Plantillas varias relacionadas a la materia |
 | Casos Practicos                   | CPR_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Casos_Practicos              | Casos practicos para practicar para los parciales |
+| Bibilografía de la materia        | BIB_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Bibliografia                 | Bibliografía de la materia |
 | Programa de la materia            | Programa.pdf                              | /                             | Programa de la materia |
 | Plan de Gestión de Configuración  | README.me                                 | /                             | Plan de Gestión de Configuración |
 
