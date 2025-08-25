@@ -61,6 +61,7 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 | Clase                             | CL_nombre_de_clase.&lt;&lt;ext&gt;&gt;    | /Clases                       | Clases grabadas de la materia |
 | Casos de Prueba                   | TC_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/tests     | Casos de prueba relacionados al TP programable |
 | Trabajos Prácticos                | TP_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs                          | Documentos relacionados a trabajos prácticos |
+| Investigación Grupal              | TPIG_nombre_del_item.&lt;&lt;ext&gt;&gt;  | /Investigacion_Grupal         | Documentos relacionados a trabajos prácticos de investigación |
 | Templates                         | TEM_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Templates                    | Plantillas varias relacionadas a la materia |
 | Casos Practicos                   | CPR_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Casos_Practicos              | Casos practicos para practicar para los parciales |
 | Bibilografía de la materia        | BIB_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Bibliografia                 | Bibliografía de la materia |
