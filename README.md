@@ -22,7 +22,7 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 | Fernando Calle               | 87370  |
 | Martínez Joel Luciano        | 77264  |
 | Ignacio Soria                | 94607  |
-| Agustín Patrito             | 94142  |
+| Agustín Patrito              | 94142  |
 | Joaquín Gonzalez Zanotti     | 89531  |
 | Nicolás Juncos Forni         | 99695  |
 | Juan Hernán Orsi             | 74850  |
