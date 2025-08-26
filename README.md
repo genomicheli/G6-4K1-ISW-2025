@@ -74,12 +74,17 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ---
 
 ## 📖 Glosario
-- DOC: documento.
-- BE: backend.
-- FE: frontend.
-- AS: assets.
-- CL: clase.
-- BIB: bibliografia.
+- DOC: documento
+- BE: backend
+- FE: frontend
+- AS: assets
+- CL: clase
+- TC: caso de prueba
+- TP: trabajo práctico
+- TPIG: investigacion grupal
+- TEM: templates
+- CPR: caso práctico
+- BIB: bibliografía.
 
 ---
 
