@@ -74,17 +74,18 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ---
 
 ## 📖 Glosario
-- DOC: documento
-- BE: backend
-- FE: frontend
-- AS: assets
-- CL: clase
-- TC: caso de prueba
-- TP: trabajo práctico
-- TPIG: investigacion grupal
-- TEM: templates
-- CPR: caso práctico
-- BIB: bibliografía.
+- DOC: Documento
+- BE: Backend
+- FE: Frontend
+- AS: Assets
+- CL: Clase
+- TC: Caso de prueba
+- TP: Trabajo práctico
+- TPIG: Investigacion grupal
+- TEM: Templates
+- CPR: Caso práctico
+- BIB: Bibliografía
+- LB: Linea Base
 
 ---
 
