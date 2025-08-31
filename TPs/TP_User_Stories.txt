@@ -1,0 +1,55 @@
+User Stories - Practico 1.
+
+Cargar Gasto (Previamente registrar, no es correcto porque no es el lenguaje natural del cliente, usar cargar/guardar/agregar).
+Modificar Gasto.
+Eliminar Gasto.
+Agregar responsable de gasto.
+Consultar gastos.
+Registrar usuario.
+Iniciar sesión.
+Registrar tipo de gasto.
+Filtrar gastos.
+Cerrar Sesión.
+-----------------------------------------------------------------------------
+Roles:
+
+Responsable de gasto.
+------------------------------------------------------------------------------
+Agregar Responsable de Gastos
+
+Como miembro familiar quiero registrar a un responsable de gastos para atribuirle gastos y llevar control de los mismos.
+
+Criterios de aceptación:
+
+*Debe indicarse nombre y apellido.
+
+Pruebas de usuario:
+
+*Probar registrar responsable de gasto con nombre y apellido válido.(PASA)
+*Probar registrar responsable de gasto sin apellido (FALLA).
+-------------------------------------------------------------------------------
+Guardar Gasto
+
+Como miembro familiar quiero guardar un gasto para llevar el control de mis finanzas.
+
+Criterios de Aceptación:
+
+* Se debe indicar un monto positivo del gasto.
+* Se debe tener la sesión iniciada para guardar un gasto.
+* Se puede modificar la fecha de gasto por defecto, menor a la actual.
+* Se debe guardar un gasto con tipo y un responsable de gasto asociado.
+
+Pruebas de Usuario:
+
+* Probar guardar un gasto con monto positivo, con fecha igual o menor a la actual, asociando un tipo y un responsable válido (PASA).
+* Probar guardar un gasto sin tipo ni responsable de gasto (FALLA).
+* Probar guardar un gasto con fecha futura (FALLA).
+
+
+
+
+
+
+
+
+
