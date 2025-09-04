@@ -1,6 +1,6 @@
 User Stories - Practico 1.
 
-Cargar Gasto (Previamente registrar, no es correcto porque no es el lenguaje natural del cliente, usar cargar/guardar/agregar).
+Cargar Gasto.
 Modificar Gasto.
 Eliminar Gasto.
 Agregar responsable de gasto.
@@ -14,6 +14,7 @@ Cerrar Sesión.
 Roles:
 
 Responsable de gasto.
+Miembro familiar.
 ------------------------------------------------------------------------------
 Agregar Responsable de Gastos
 
