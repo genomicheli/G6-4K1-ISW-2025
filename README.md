@@ -45,6 +45,8 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 │       └── tests/
 ├── Investigacion_Grupal/
 ├── Clases/
+│   ├── Notas/
+│   └── Ejercicios_Resueltos/
 ├── Bibliografia/
 └── Templates/
 ```
