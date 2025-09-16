@@ -54,21 +54,23 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 ## 🗂️ Listado de Ítems de Configuración
 | Ítem de Configuración | Nomenclatura | Ubicación | Descripción breve |
 |-----------------------|--------------|-----------|-------------------|
-| Documentos                        | DOC_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /TPs/tp_programable/docs      | Documentación relacionada al TP Programable |
-| Back End                          | BE_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/backend   | Artefactos de Backend |
-| Front End                         | FE_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/frontend  | Artefactos de Frontend |
-| Assets                            | AS_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/assets    | Recursos visuales |
-| Clase                             | CL_nombre_de_clase.&lt;&lt;ext&gt;&gt;    | /Clases                       | Clases grabadas de la materia |
-| Casos de Prueba                   | TC_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/tests     | Casos de prueba relacionados al TP programable |
-| Trabajos Prácticos                | TP_nombre_del_item.&lt;&lt;ext&gt;&gt;    | /TPs                          | Documentos relacionados a trabajos prácticos |
-| Investigación Grupal              | TPIG_nombre_del_item.&lt;&lt;ext&gt;&gt;  | /Investigacion_Grupal         | Documentos relacionados a trabajos prácticos de investigación |
-| Templates                         | TEM_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Templates                    | Plantillas varias relacionadas a la materia |
-| Casos Practicos                   | CPR_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Casos_Practicos              | Casos practicos para practicar para los parciales |
-| Bibilografía de la materia        | BIB_nombre_del_item.&lt;&lt;ext&gt;&gt;   | /Bibliografia                 | Bibliografía de la materia |
+| Documentos                        | DOC_titulo_del_documento.&lt;&lt;ext&gt;&gt;   | /TPs/tp_programable/docs      | Documentación relacionada al TP Programable |
+| Back End                          | BE_caracteristicas_del_script.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/backend   | Artefactos de Backend |
+| Front End                         | FE_caracteristicas_del_script.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/frontend  | Artefactos de Frontend |
+| Assets                            | AS_descripcion_del_asset.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/assets    | Recursos visuales |
+| Clase                             | CL_temas_de_la_clase_YYYYMMDD.mp4    | /Clases                       | Clases grabadas de la materia |
+| Casos de Prueba                   | TC_caracteristicas_de_prueba.&lt;&lt;ext&gt;&gt;    | /TPs/tp_programable/tests     | Casos de prueba relacionados al TP programable |
+| Trabajos Prácticos                | TP_tema_del_trabajo_practico.&lt;&lt;ext&gt;&gt;    | /TPs                          | Documentos relacionados a trabajos prácticos |
+| Investigación Grupal              | TPIG_tema_de_investigacion.pdf  | /Investigacion_Grupal         | Documentos relacionados a trabajos prácticos de investigación |
+| Templates                         | TEM_titulo_del_template.&lt;&lt;ext&gt;&gt;   | /Templates                    | Plantillas varias relacionadas a la materia |
+| Casos Practicos                   | CPR_titulo_del_caso_practico.pdf   | /Casos_Practicos              | Casos practicos para practicar para los parciales |
+| Bibilografía de la materia        | BIB_titulo_de_material_bibliografico.pdf   | /Bibliografia                 | Bibliografía de la materia |
 | Programa de la materia            | Programa.pdf                              | /                             | Programa de la materia |
 | Plan de Gestión de Configuración  | README.me                                 | /                             | Plan de Gestión de Configuración |
 
 
+Para los ítems **Documentos**, **Trabajos Prácticos** y **Templates** las extensiones permitidas son .docx, .txt y .pdf.
+Las extensiones vinculadas a ítems relacionados con la aplicación a desarrollar se definirán posteriormente.
 
 
 ---
@@ -86,6 +88,7 @@ Este repositorio contiene los recursos, documentación y entregables relacionado
 - CPR: Caso práctico
 - BIB: Bibliografía
 - LB: Linea Base
+- YYYYMMDD: Fecha en formato año, mes y día
 
 ---
 
