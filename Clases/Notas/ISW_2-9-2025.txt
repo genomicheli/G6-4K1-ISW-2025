@@ -1,0 +1,72 @@
+2/9/2025
+
+User stories Descripción corta de funcionalidad esperada por el usuario. Tiene 3 partes: conversación, tarjeta y confirmación. Lo mas importante es la conversación. La confirmación son las pruebas del usuario.  
+
+La tarjeta es la parte visual de la user story. 3 partes (como ROL quiero QUE para VALOR DE NEGOCIO).
+
+Las user stories son porciones verticales ya que en la arquitectura layered(Capa presentación, capa lógica negocio y capa de datos),la user story tiene que tener una parte de cada capa.
+
+Los criterios de aceptación me permiten saber cuando la user story va a estar disponible para mostrar al cliente.
+
+U2
+Ver el sw como un producto.
+Lead time: tiempo entre que un cliente me pide algo y yo se lo doy.
+Este es cada vez más corto.
+
+El ciclo de vida del proyecto es más chico que el ciclo de vida del producto.
+
+El ciclo de vida del producto tiene:
+Fase de introducción: Vemos que reacción tiene el mercado para ver si el producto va a llegar a ser o no.
+Fase de crecimiento:
+Fase de madurez
+Fase de declive
+El ciclo de vida del producto termina cuando sacas ese producto del mercado.
+
+El ciclo de vida del proyecto va a dar como resultado 1 versión del producto.
+
+El 80% del valor del producto esta ubicado en el 20% de las características del producto. Paretto. Y viceversa.
+
+Esencia ágil: puedo empezar a construir un producto sin tener todos los requerimientos.
+
+Se dice que nosotros solo somos capaces de reconocer el 50% de los requerimientos al principio y el resto son emergentes.
+Del 50% que si reconocemos hay una parte de que conocemos que se descubre y otra parte que se conoce y que se nos pasa.
+
+Eric Rice busca materializar una hipótesis.
+
+Muchas veces focalizamos mucho en los outputs y no en los outcomes. No pasan de usable.
+
+Hay que preguntar al usuario.
+
+UVP: producto viable
+MVP: producto mínimo viable
+MMP: producto mínimo comercializable, algo que se pueda vender.
+MMF: una característica que voy a salir a vender.
+
+El desafío es salir con un MMP
+La U de UVP es de único.
+
+Una demo es una herramienta para mostrar una MVP.
+
+Yo parto de una MVP
+Cuando validar hipótesis, etc,paso a una MMP(con muchas MMF)
+MMR(release): se asocia cada vez que vas a sacar una versión de producto a producción. 
+El producto va a tener muchas versiones, cada versión es un release y estas deben ser distintas de cada una.
+
+Valor vs Desperdicio: Todo lo que no genera valor, es desperdicio. Se engancha con un valor de lean, eliminar los desperdicios.
+Sobre esa idea descansa el MVP.
+
+El MVP puede ser un video, un poster, etc.
+El MMP NO, este es un producto comercializable.
+
+Dilema La audacia de Cero: Es el miedo que tienes de perder cuando toca hacer algo nuevo.CUANDO ALGUIEN NO TIENE NADA QUE PERDER TIENE MUCHA MAS POSIBILIDAD DE ÉXITO.
+Todos los que han salido al mercado dieron un “salto de fe”.
+
+Hipótesis de valor: Producto que alguien quiera. Que quiero ofrecerle al cliente.
+
+Hipótesis de crecimiento: Cuánto va a crecer el producto. Una métrica es NPS(net promoter score), o lo odias o lo amas.
+
+No es importante pero es urgente: cuestiones que no hacen a la esencia del producto pero si son necesarias, por ejemplo puede ser la seguridad del sw. No hace al funcionamiento core de el producto pero si es necesario para que ande.
+
+Minimable Lovable Product (MLP):  Es muy importante hacer foco en todas las capas de la arquitectura, si al cliente no le gusta un producto es muy difícil que le de una segunda oportunidad.
+
+NO ALCANZA SOLO CON LA FUNCIONALIDAD.
